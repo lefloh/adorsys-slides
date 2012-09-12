@@ -1,0 +1,9 @@
+*~
+.DS_Store
+._.*
+.classpath
+.project
+.settingsi
+.eclipse
+.idea
+target/
